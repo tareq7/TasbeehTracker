@@ -1,0 +1,27 @@
+# Visual Studio & .NET
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Windows Application Packaging (WAP) & Build Artifacts
+AppPackages/
+BundleArtifacts/
+*.pfx
+*.p12
+*.cer
+*.key
+*.pubxml.user
+
+# OS & Temp
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+*.tmp
+*.log
+*.assets.cache
